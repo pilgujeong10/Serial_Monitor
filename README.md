@@ -51,7 +51,7 @@ You can watch data Plotter / Monitor
 
 
 
-### 4. Fouth Step
+### 4. Fourth Step
 You can drag and copy data.
 
 ![image](https://user-images.githubusercontent.com/35026484/100967810-7ecff080-3573-11eb-9916-149e735e4f15.png)
